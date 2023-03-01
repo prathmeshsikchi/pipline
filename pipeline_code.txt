@@ -17,5 +17,5 @@ pipeline {
                        echo 'Thanks for using Jenkins Pipeline'
                  }
                  }
-              }
+}
 }
